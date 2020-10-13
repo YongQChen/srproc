@@ -1,0 +1,38 @@
+Processed 2 files in directory: run1
+
+Sequencing data information for each Lane
+=========================================
+Stats/Lane,Lane#2,Lane#4
+numReads,50862,53
+numBadReads (No data or incomplete data),0,0
+numBadBarcode (no match or multi-match),11046,1
+
+Sequencing read counts per Lane/sample for each reference
+=========================================================
+Lane,Lane#2,Lane#2,Lane#2,Lane#4,Lane#4
+Reference/Sample,S62,S64,S65,S61,S64
+chr1.fa,1466,1268,709,0,0
+chr10.fa,843,749,405,18,34
+chr11.fa,856,722,409,0,0
+chr12.fa,798,635,361,0,0
+chr13.fa,506,398,220,0,0
+chr14.fa,554,464,234,0,0
+chr15.fa,560,437,238,0,0
+chr16.fa,620,467,260,0,0
+chr17.fa,607,437,262,0,0
+chr18.fa,451,401,211,0,0
+chr19.fa,470,366,179,0,0
+chr2.fa,1366,1242,650,0,0
+chr20.fa,477,360,216,0,0
+chr21.fa,246,195,92,0,0
+chr22.fa,328,227,131,0,0
+chr3.fa,1114,951,512,0,0
+chr4.fa,898,806,442,0,0
+chr5.fa,994,866,471,0,0
+chr6.fa,1013,801,437,0,0
+chr7.fa,926,755,389,0,0
+chr8.fa,836,707,411,0,0
+chr9.fa,706,579,334,0,0
+chrM.fa,0,0,0,0,0
+chrX.fa,710,631,361,0,0
+chrY.fa,33,23,17,0,0
